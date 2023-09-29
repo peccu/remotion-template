@@ -14,9 +14,9 @@
       "command": "bun start",
       "runAtStart": true
     },
-    "bun run lint": {
-      "name": "lint",
-      "command": "bun run lint"
+    "bun run build": {
+      "name": "build",
+      "command": "bun run build"
     },
     "bun run format": {
       "name": "format",
